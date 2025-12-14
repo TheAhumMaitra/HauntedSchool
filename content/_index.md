@@ -2,10 +2,6 @@
 
   SPDX-License-Identifier: 	GPL-3.0-or-later -->
 
----
-title: "Welcome to my personal website!"
-description: "This is my personal website's homepage"
----
 
 Welcome to my website! Thanks for visiting my website! This my personal website, where I post articles!
 
@@ -15,8 +11,6 @@ Welcome to my website! Thanks for visiting my website! This my personal website,
 
 <br>
 
-
-<!-- priority:2 -->
 <h2 style="text-align: left;"> I'm currently busy with </h2>
 
 {{< github repo="TheAhumMaitra/Itomori" >}}
