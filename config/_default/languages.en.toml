@@ -12,9 +12,9 @@ dateFormat = "2 January 2006"
 description = "Welcome to my personal website v3!"
 logo = "logo.png"
 
-  [params.author]
-  links = [ ]
-
 ["params.author"]
 name = "Ahum Maitra"
-headline = "I love programming"
+headline = "I'm just a programmer."
+
+[[params.author.links]]
+github = "https://github.com/TheAhumMaitra"
