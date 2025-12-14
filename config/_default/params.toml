@@ -1,5 +1,5 @@
 colorScheme = "github"
-defaultAppearance = "light"
+defaultAppearance = "dark"
 autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
@@ -25,7 +25,7 @@ highlightCurrentMenuArea = true
 smartTOC = true
 
 [header]
-layout = "fixed-fill-blur"
+layout = "fixed-fill"
 
 [footer]
 showMenu = true
@@ -36,9 +36,9 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-showRecent = false
+showRecent = true
 showRecentItems = 5
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = false
 cardViewScreenWidth = false
@@ -47,7 +47,7 @@ disableHeroImageFilter = false
 
 [article]
 showDate = true
-showViews = false
+showViews = true
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
