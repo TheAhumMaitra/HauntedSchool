@@ -2,29 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ahum Maitra</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Ahum Maitra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Ahum Maitra</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example</title>
-      <link>//localhost:1313/tags/example/</link>
+      <title>Hello-World</title>
+      <link>/tags/hello-world/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/example/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tag</title>
-      <link>//localhost:1313/tags/tag/</link>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/tags/tag/</guid>
+      <guid>/tags/hello-world/</guid>
       <description></description>
       
     </item>
