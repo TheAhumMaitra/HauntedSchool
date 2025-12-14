@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ahum Maitra</title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Ahum Maitra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Ahum Maitra</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Hello to my personal website V3</title>
-      <link>/posts/1765710926622-hello-world/</link>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>//localhost:1313/posts/1765710926622-hello-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/1765710926622-hello-world/</guid>
+      <guid>//localhost:1313/posts/1765710926622-hello-world/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1765710926622-hello-world/featured.png" />
     </item>
     
   </channel>

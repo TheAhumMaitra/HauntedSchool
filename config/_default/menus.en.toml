@@ -15,5 +15,11 @@ pageRef = "tags"
 identifier = "YjChmyay3k"
 weight = 9_999
 
+[[main]]
+pre = "github"
+url = "https://github.com/TheAhumMaitra/HauntedSchool"
+identifier = "3IXNLn8A9g"
+weight = 9_999
+
 [[footer]]
 none = "none"

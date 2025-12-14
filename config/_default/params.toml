@@ -35,7 +35,8 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
+homepageImage = "https://images.pexels.com/photos/1933317/pexels-photo-1933317.jpeg?_gl=1*q0jzxw*_ga*MTk2OTgyMDIzOC4xNzY1NzI2ODkw*_ga_8JE65Q40S6*czE3NjU3MjY4ODkkbzEkZzAkdDE3NjU3MjY4ODkkajYwJGwwJGgw"
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
@@ -47,7 +48,7 @@ disableHeroImageFilter = false
 
 [article]
 showDate = true
-showViews = true
+showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
@@ -108,3 +109,4 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
+

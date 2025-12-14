@@ -2,41 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag on Ahum Maitra</title>
-    <link>http://localhost:46431/tags/tag/</link>
+    <link>//localhost:1313/tags/tag/</link>
     <description>Recent content in Tag on Ahum Maitra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Ahum Maitra</copyright>
-    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:46431/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/tag/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>a</title>
-      <link>http://localhost:46431/posts/1765710947878-a/</link>
+      <title>Best-hyprland-preconfigured-setup</title>
+      <link>//localhost:1313/posts/1765729035741-best-hyprland-preconfigured-setup/</link>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:46431/posts/1765710947878-a/</guid>
+      <guid>//localhost:1313/posts/1765729035741-best-hyprland-preconfigured-setup/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46431/posts/1765710947878-a/featured.png" />
-    </item>
-    
-    <item>
-      <title>Hello WOrld</title>
-      <link>http://localhost:46431/posts/1765710926622-hello-world/</link>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:46431/posts/1765710926622-hello-world/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46431/posts/1765710926622-hello-world/featured.png" />
-    </item>
-    
-    <item>
-      <title>new-arctile</title>
-      <link>http://localhost:46431/posts/1765710939792-new-arctile/</link>
-      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:46431/posts/1765710939792-new-arctile/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:46431/posts/1765710939792-new-arctile/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1765729035741-best-hyprland-preconfigured-setup/featured.png" />
     </item>
     
   </channel>

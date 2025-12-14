@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyprland on Ahum Maitra</title>
+    <link>//localhost:1313/tags/hyprland/</link>
+    <description>Recent content in Hyprland on Ahum Maitra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Ahum Maitra</copyright>
+    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/hyprland/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Best Hyprland preconfrigured setups for you!</title>
+      <link>//localhost:1313/posts/1765729035741-best-hyprland-preconfigured-setup/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/1765729035741-best-hyprland-preconfigured-setup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/1765729035741-best-hyprland-preconfigured-setup/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
