@@ -24,6 +24,7 @@ advertisement = { }
 highlightCurrentMenuArea = true
 smartTOC = true
 
+
 [header]
 layout = "fixed-fill"
 
