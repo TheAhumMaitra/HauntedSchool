@@ -24,7 +24,6 @@ advertisement = { }
 highlightCurrentMenuArea = true
 smartTOC = true
 
-
 [header]
 layout = "fixed-fill"
 
@@ -69,9 +68,12 @@ showReadingTime = true
 showTableOfContents = true
 showTaxonomies = false
 showCategoryOnly = false
-showAuthorsBadges = false
+showAuthorsBadges = true
 showWordCount = true
 showZenMode = true
+showRelatedContent = true
+relatedContent = true
+relatedContentLimit = 3
 
 [list]
 showHero = false
