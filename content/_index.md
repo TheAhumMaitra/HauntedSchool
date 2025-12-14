@@ -2,6 +2,10 @@
 
   SPDX-License-Identifier: 	GPL-3.0-or-later -->
 
+---
+title: "Welcome to my personal website!"
+description: "This is my personal website's homepage"
+---
 
 Welcome to my website! Thanks for visiting my website! This my personal website, where I post articles!
 
